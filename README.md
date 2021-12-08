@@ -1,4 +1,5 @@
 # Medium
-Code related to blog posts on my [Medium](https://medium.com/@kaankubatt).
+Code related to blog posts on my [Medium](https://medium.com/@kaankubat).
 
-[ProvinceService](https://medium.com/@kaankubatt/sprint-boot-rest-api-tutorial-a5271b2a4dce)
+[ProvinceService](https://medium.com/@kaankubat/sprint-boot-rest-api-tutorial-a5271b2a4dce)
+[Upasting Downcasting](https://medium.com/@kaankubat/upcasting-downcasting-nedir-örnekler-ile-anlatım-java-3ba0f02b1f2)
